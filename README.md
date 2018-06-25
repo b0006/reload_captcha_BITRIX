@@ -2,10 +2,11 @@
 <hr>
 
 <h3>Example</h3>
+
+<p>You must add this code to <form></p>
 <ul>
   <li>template.php</li>
 </ul>
-<p>You must add this code to <form></p>
 
 ```php
 <div class="captcha-block">
@@ -16,7 +17,7 @@
 </div>
 
 ```
-
+... and
 <ul>
   <li>script.js</li>
 </ul>
