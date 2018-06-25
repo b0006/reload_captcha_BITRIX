@@ -1,0 +1,1 @@
+# reload_captcha_BITRIX
