@@ -13,7 +13,7 @@
   <input class="captchaSid" name="captcha_sid" value="<?=$arResult["CAPTCHA_CODE"]?>" type="hidden">
   <img class="captchaImg" src="/bitrix/tools/captcha.php?captcha_sid=<?=$arResult["CAPTCHA_CODE"]?>" width="180" height="40">
 
-  <a class="captcha-link reloadCaptcha" href="#">Обновить картинку</a>
+  <a class="captcha-link reloadCaptcha" href="#">Refresh</a>
 </div>
 
 ```
